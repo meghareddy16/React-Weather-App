@@ -7,7 +7,7 @@ It displays current temperature, weather conditions, humidity, and wind speed â€
 
 ## ðŸ“¸ Preview
 
-![Weather App Screenshot](./src/assets/preview.png)
+![Weather App Screenshot](./src/assets/previewImages)
 
 ---
 
